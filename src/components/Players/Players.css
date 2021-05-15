@@ -1,0 +1,19 @@
+.players{
+ float: left;
+border: 1px solid lightgray;
+width: 50%;
+margin: 10px 5px;
+padding: 10px;
+border-radius: 5px;
+}
+.players p{
+    line-height: 5px;
+    font-size: 14px;
+}
+.player-image{
+    margin-right: 40px;
+    float: left;
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 5px;
+}

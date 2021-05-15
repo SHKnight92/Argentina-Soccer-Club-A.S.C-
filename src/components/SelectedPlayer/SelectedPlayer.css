@@ -1,0 +1,19 @@
+.player-list{
+    padding-top: 10px;
+    text-align: center;
+    min-height: 450px;
+    width: 450px;
+    border: 1px solid lightgray;
+    position: fixed;
+    top: 100px;
+    right: 110px;
+    border-radius: 5px;
+}
+.details{
+    width: 40%;
+    margin: 0 auto;
+    padding-top: 8px;
+}
+.team-details p{
+    line-height: 8px;
+}

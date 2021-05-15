@@ -1,0 +1,115 @@
+[
+    {
+        "id":1,
+        "name":"Emiliano Martínez",
+        "position":"Goalkeeper",
+        "age":28,
+        "image":"https://img.a.transfermarkt.technology/portrait/medium/111873-1547721671.jpg?lm=1",
+        "marketValue":40000,
+        "country":"Argentina"
+    },
+    {	
+        "id":2,
+        "name":"Esteban Andrada",
+        "position":"Goalkeeper",
+        "age":30,
+        "image":"https://img.a.transfermarkt.technology/portrait/medium/105888-1463494194.JPG?lm=1",
+        "marketValue":2000,
+        "country":"Argentina"
+    },
+    {	
+        "id":3,
+        "name":"Lucas Martínez Quarta",
+        "position":"Centre-Back",
+        "age":24,
+        "image":"https://img.a.transfermarkt.technology/portrait/medium/373373-1601885238.jpg?lm=1",
+        "marketValue":25000,
+        "country":"Argentina"
+    },
+    {	
+        "id":4,
+        "name":"Facundo Medina",
+        "position":"Centre-Back",
+        "age":21,
+        "image":"https://img.a.transfermarkt.technology/portrait/medium/474800-1548942238.jpg?lm=1",
+        "marketValue":39000,
+        "country":"Argentina"
+    },
+    {	
+        "id":5,
+        "name":"Nicolás Otamendi",
+        "position":"Centre-Back",
+        "age":33,
+        "image":"https://img.a.transfermarkt.technology/portrait/medium/54781-1603794660.jpg?lm=1",
+        "marketValue":5200,
+        "country":"Argentina"
+    },
+    {	
+        "id":6,
+        "name":"Wálter Kannemann",
+        "position":"Centre-Back",
+        "age":29,
+        "image":"https://img.a.transfermarkt.technology/portrait/medium/145400-1547647538.jpg?lm=1",
+        "marketValue":2700,
+        "country":"Argentina"
+    },
+    {	
+        "id":7,
+        "name":"Nicolás Tagliafico",
+        "position":"Left-Back",
+        "age":28,
+        "image":"https://img.a.transfermarkt.technology/portrait/medium/131225-1513245039.jpg?lm=1",
+        "marketValue":4500,
+        "country":"Argentina"
+    },
+    {	
+        "id":8,
+        "name":"Gonzalo Montiel",
+        "position":"Right-Back",
+        "age":24,
+        "image":"https://img.a.transfermarkt.technology/portrait/medium/402733-1540376006.jpg?lm=1",
+        "marketValue":1000,
+        "country":"Argentina"
+    },
+    {	
+        "id":9,	
+        "name":"Giovani Lo Celso",
+        "position":"Central Midfield",
+        "age":24,
+        "image":"https://img.a.transfermarkt.technology/portrait/medium/348795-1591195792.jpg?lm=1",
+        "marketValue":1200,
+        "country":"Argentina"
+    },
+    {	
+        "id":10,
+        "name":"Lucas Ocampos",
+        "position":"Left Winger",
+        "age":26,
+        "image":"https://img.a.transfermarkt.technology/portrait/medium/189441-1448351244.jpg?lm=1",
+        "marketValue":1500,
+        "country":"Argentina"
+    },
+    {	
+        "id":11,
+        "name":"Nicolás González ",
+        "position":"Right Winger",
+        "age":26,
+        "image":"https://img.a.transfermarkt.technology/portrait/medium/486031-1599992703.jpg?lm=1",
+        "marketValue":8000,
+        "country":"Argentina"
+    },
+    {	
+        "id":12,
+        "name":"Lionel Messi",
+        "position":"Right Winger",
+        "age":33,
+        "image":"https://img.a.transfermarkt.technology/portrait/medium/28003-1604164452.png?lm=1",
+        "marketValue":12000,
+        "country":"Argentina"
+    }
+]	
+
+
+
+
+
